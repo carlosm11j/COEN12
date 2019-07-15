@@ -1,0 +1,9 @@
+Worst Case Big O Analysis
+createDataSet = O(n)
+destroyDataSet = O(n)
+insert = O(1)
+delete = O(1)
+searchAge = O(1)
+maxAgeGap = O(n)
+
+The implementation of this application uses an array of linked lists because there is few insertion and deletion, but does require a lot of search operations

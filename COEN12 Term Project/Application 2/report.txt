@@ -1,0 +1,8 @@
+Worst Case Big O Analysis
+createDataSet = O(n)
+destroyDataSet = O(n)
+insert = O(1)
+delete = O(1)
+searchID = O(1)
+
+The implantation of application uses an array that matches up with the student's id to allow easy searching by id, but no needs for frequent insertion or deletion.
